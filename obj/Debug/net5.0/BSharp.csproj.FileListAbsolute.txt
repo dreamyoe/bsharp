@@ -1,0 +1,32 @@
+C:\Users\julian.verwoerd\source\repos\BSharp\bin\Debug\net5.0\BSharp.exe
+C:\Users\julian.verwoerd\source\repos\BSharp\bin\Debug\net5.0\BSharp.deps.json
+C:\Users\julian.verwoerd\source\repos\BSharp\bin\Debug\net5.0\BSharp.runtimeconfig.json
+C:\Users\julian.verwoerd\source\repos\BSharp\bin\Debug\net5.0\BSharp.runtimeconfig.dev.json
+C:\Users\julian.verwoerd\source\repos\BSharp\bin\Debug\net5.0\BSharp.dll
+C:\Users\julian.verwoerd\source\repos\BSharp\bin\Debug\net5.0\ref\BSharp.dll
+C:\Users\julian.verwoerd\source\repos\BSharp\bin\Debug\net5.0\BSharp.pdb
+C:\Users\julian.verwoerd\source\repos\BSharp\obj\Debug\net5.0\BSharp.csproj.AssemblyReference.cache
+C:\Users\julian.verwoerd\source\repos\BSharp\obj\Debug\net5.0\BSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julian.verwoerd\source\repos\BSharp\obj\Debug\net5.0\BSharp.AssemblyInfoInputs.cache
+C:\Users\julian.verwoerd\source\repos\BSharp\obj\Debug\net5.0\BSharp.AssemblyInfo.cs
+C:\Users\julian.verwoerd\source\repos\BSharp\obj\Debug\net5.0\BSharp.csproj.CoreCompileInputs.cache
+C:\Users\julian.verwoerd\source\repos\BSharp\obj\Debug\net5.0\BSharp.dll
+C:\Users\julian.verwoerd\source\repos\BSharp\obj\Debug\net5.0\ref\BSharp.dll
+C:\Users\julian.verwoerd\source\repos\BSharp\obj\Debug\net5.0\BSharp.pdb
+C:\Users\julian.verwoerd\source\repos\BSharp\obj\Debug\net5.0\BSharp.genruntimeconfig.cache
+C:\Users\julian.verwoerd\OneDrive - Pantronic\Willekeurige bestanden of mappen\c projects ff\BSharp\bin\Debug\net5.0\BSharp.exe
+C:\Users\julian.verwoerd\OneDrive - Pantronic\Willekeurige bestanden of mappen\c projects ff\BSharp\bin\Debug\net5.0\BSharp.deps.json
+C:\Users\julian.verwoerd\OneDrive - Pantronic\Willekeurige bestanden of mappen\c projects ff\BSharp\bin\Debug\net5.0\BSharp.runtimeconfig.json
+C:\Users\julian.verwoerd\OneDrive - Pantronic\Willekeurige bestanden of mappen\c projects ff\BSharp\bin\Debug\net5.0\BSharp.runtimeconfig.dev.json
+C:\Users\julian.verwoerd\OneDrive - Pantronic\Willekeurige bestanden of mappen\c projects ff\BSharp\bin\Debug\net5.0\BSharp.dll
+C:\Users\julian.verwoerd\OneDrive - Pantronic\Willekeurige bestanden of mappen\c projects ff\BSharp\bin\Debug\net5.0\BSharp.pdb
+C:\Users\julian.verwoerd\OneDrive - Pantronic\Willekeurige bestanden of mappen\c projects ff\BSharp\obj\Debug\net5.0\BSharp.csproj.AssemblyReference.cache
+C:\Users\julian.verwoerd\OneDrive - Pantronic\Willekeurige bestanden of mappen\c projects ff\BSharp\obj\Debug\net5.0\BSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julian.verwoerd\OneDrive - Pantronic\Willekeurige bestanden of mappen\c projects ff\BSharp\obj\Debug\net5.0\BSharp.AssemblyInfoInputs.cache
+C:\Users\julian.verwoerd\OneDrive - Pantronic\Willekeurige bestanden of mappen\c projects ff\BSharp\obj\Debug\net5.0\BSharp.AssemblyInfo.cs
+C:\Users\julian.verwoerd\OneDrive - Pantronic\Willekeurige bestanden of mappen\c projects ff\BSharp\obj\Debug\net5.0\BSharp.csproj.CoreCompileInputs.cache
+C:\Users\julian.verwoerd\OneDrive - Pantronic\Willekeurige bestanden of mappen\c projects ff\BSharp\obj\Debug\net5.0\BSharp.dll
+C:\Users\julian.verwoerd\OneDrive - Pantronic\Willekeurige bestanden of mappen\c projects ff\BSharp\obj\Debug\net5.0\refint\BSharp.dll
+C:\Users\julian.verwoerd\OneDrive - Pantronic\Willekeurige bestanden of mappen\c projects ff\BSharp\obj\Debug\net5.0\BSharp.pdb
+C:\Users\julian.verwoerd\OneDrive - Pantronic\Willekeurige bestanden of mappen\c projects ff\BSharp\obj\Debug\net5.0\BSharp.genruntimeconfig.cache
+C:\Users\julian.verwoerd\OneDrive - Pantronic\Willekeurige bestanden of mappen\c projects ff\BSharp\obj\Debug\net5.0\ref\BSharp.dll

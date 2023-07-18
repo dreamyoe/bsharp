@@ -1,0 +1,5 @@
+C:\Users\julian.verwoerd\OneDrive - Pantronic\Willekeurige bestanden of mappen\c projects ff\BSharp\bin\Debug\net5.0\publish\BSharp.exe
+C:\Users\julian.verwoerd\OneDrive - Pantronic\Willekeurige bestanden of mappen\c projects ff\BSharp\bin\Debug\net5.0\publish\BSharp.dll
+C:\Users\julian.verwoerd\OneDrive - Pantronic\Willekeurige bestanden of mappen\c projects ff\BSharp\bin\Debug\net5.0\publish\BSharp.deps.json
+C:\Users\julian.verwoerd\OneDrive - Pantronic\Willekeurige bestanden of mappen\c projects ff\BSharp\bin\Debug\net5.0\publish\BSharp.runtimeconfig.json
+C:\Users\julian.verwoerd\OneDrive - Pantronic\Willekeurige bestanden of mappen\c projects ff\BSharp\bin\Debug\net5.0\publish\BSharp.pdb
