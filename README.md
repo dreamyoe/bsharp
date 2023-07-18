@@ -1,5 +1,5 @@
 # BSharp
-BSharp is my own programming language I made. It probably is not optimized but atleast it works.
+BSharp is my own programming language I made. It's probably is not optimized but atleast it works.
 
  
 ## Formatting:
