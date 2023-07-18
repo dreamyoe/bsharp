@@ -36,9 +36,13 @@ get [type] [variable] - Gets a specified value and puts the output into an decla
 
 ### Get types
 username - Computer username
+
 machinename - Machine name
+
 userdomainname - User domain name
+
 osversion - OS version
+
 systemdirectory - System directory
 
 
