@@ -47,10 +47,13 @@ systemdirectory - System directory
 Asking the user for his name and returning it back
 ```
 var yourname somename
+
 print What|is|your|name?
 readline yourname
+
 print Hello,
 print $yourname
+
 pause
 exit
 ```
@@ -60,12 +63,15 @@ Getting system information
 var os null
 var user null
 var domain null
+
 get osversion os
 get username user
 get userdomainname domain
+
 print $os
 print $user
 print $domain
+
 pause
 exit
 ```
